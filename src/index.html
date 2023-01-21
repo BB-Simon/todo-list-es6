@@ -7,6 +7,26 @@
   <title>To do list</title>
 </head>
 <body>
-  <h1>Hello world</h1>
+  <main>
+    <!-- Todo Section -->
+    <section class="section-todo">
+      <article class="todo-container">
+        <div class="todo-header">
+          <h1 class="todo-title">Today's To Do</h1>
+          <i class="fa-solid fa-arrows-rotate"></i>
+        </div>
+        <form class="add-todo-form">
+          <input type="text" id="todo" name="todo" placeholder="Add to your list...">
+          <i id="input-icon" class="fa-solid fa-arrow-turn-down"></i>
+        </form>
+        <ul id="todos-container" class="todo-list-container">
+          <!-- Dynamic Todo list goes here -->
+        </ul>
+        <div class="clear-btn-wrapper">
+          <button class="clear-btn">Clear all completed</button>
+        </div>
+      </article>
+    </section>
+  </main>
 </body>
 </html>

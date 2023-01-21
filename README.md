@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>Awesome Books ES6</b></h3>
+  <h3><b>To do List</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -31,9 +31,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Awesome Books ES6] <a name="about-project"></a>
+# 📖 [To do List] <a name="about-project"></a>
 
-**Awesome Books ES6**
+**To do List**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -46,7 +46,6 @@
     <li><a href="https://www.w3schools.com/html/">HTML</a></li>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
     <li><a href="https://www.w3schools.com/js/default.asp">JS</a></li>
-    <li><a href="https://moment.github.io/luxon/#/">LuxonJS</a></li>
     <li><a href="https://github.com">GIT/Github</a></li>
     <li><a href="https://nodejs.org/en/">NodeJS</a></li>
   </ul>
@@ -55,13 +54,7 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- **[Dynamic Book List]**
-- **[Add a Book]**
-- **[Remove a Book From]**
-- **[Save the book list to local storage]**
-- **[Update the book list on the local storage]**
-- **[Tab navigation bar]**
-- **[Add the current time with help of LuxonJS]**
+- **[Dynamic To Do List]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,7 +87,7 @@ In order to run this project you need:
 
 > Clone this repository to your desired folder:
 
-git clone https://github.com/BB-Simon/awesome-book-es6
+git clone https://github.com/BB-Simon/todo-list-es6
 
 <!-- AUTHORS -->
 
@@ -122,7 +115,7 @@ git clone https://github.com/BB-Simon/awesome-book-es6
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/BB-Simon/awesome-book-es6/issues/).
+Feel free to check the [issues page](https://github.com/BB-Simon/todo-list-es6/issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,7 +131,7 @@ If you like this project, you are welcomed to star and fork it. You can also sha
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for their idea of awesome book es6 project and fidelity wireframes.
+I would like to thank Microverse for their idea of  the idea of todo list project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
