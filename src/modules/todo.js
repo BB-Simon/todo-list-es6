@@ -1,13 +1,13 @@
 class Todo {
-  constructor(todos){
+  constructor(todos) {
     this.todos = todos;
   }
 
-  sortedTodos(){
+  sortedTodos() {
     return this.todos.sort((a, b) => a.index - b.index);
   }
 
-  draw (todo) {
+  draw(todo) {
     this.li = document.createElement('li');
     this.li.classList.add('todo-list-item');
 
@@ -15,7 +15,7 @@ class Todo {
     this.infoDiv.classList.add('item-info');
     this.checkIcon = document.createElement('i');
     this.checkIcon.className = 'fa-regular fa-square check-icon';
-    this.descriptionSpan  = document.createElement('span');
+    this.descriptionSpan = document.createElement('span');
     this.descriptionSpan.classList.add('todo-task');
     this.descriptionSpan.innerText = todo.description;
     this.infoDiv.appendChild(this.checkIcon);
@@ -25,27 +25,11 @@ class Todo {
     this.ellipsIcon = document.createElement('i');
     this.ellipsIcon.className = 'fa-solid fa-ellipsis-vertical ellipsis-icon';
     this.ellipsisDiv.appendChild(this.ellipsIcon);
-    
+
     this.li.appendChild(this.infoDiv);
     this.li.appendChild(this.ellipsisDiv);
 
     return this.li;
-  }
-
-  add(){
-    // do something
-  }
-
-  edit(){
-    // do something
-  }
-
-  remove(){
-    // do something
-  }
-
-  compelete(){
-    // do something
   }
 }
 
