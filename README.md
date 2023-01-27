@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>To do List</b></h3>
+  <h3><b>Todo List</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -31,9 +31,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [To do List] <a name="about-project"></a>
+# 📖 [Todo List] <a name="about-project"></a>
 
-**To do List**
+**Todo List**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -54,7 +54,11 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- **[Dynamic To Do List]**
+- **[Dynamic Todo List]**
+- **[Read Tooo List from Local Storage]**
+- **[Add a New Item Todo List]**
+- **[Edit an Item from The Todo List]**
+- **[Remove an Item from The Todo List]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
